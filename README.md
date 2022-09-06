@@ -1,5 +1,6 @@
 # Investigation of Trends in Electricity Generation in the U.S.A with a Focus on the Effects of the Climate Urgency, Population and Efficiency on the Deployment of Different Energy Sources
-Packages: Pandas (latest version recommended), xlrd, plotly, geopandas, matplotlib, seaborn, cufflinks, shapely, geoplot, chart studio
+Packages: Pandas (latest version recommended), xlrd, plotly, 
+matplotlib, seaborn, chart studio
 ## Introduction
 The energy data used pulled from the [United States' Energy Information Administration (EIA)](https://www.eia.gov/) while population data was extracted from [Wikipedia](https://https://en.wikipedia.org/wiki/Wikipedia:About).
 Questions answered:
